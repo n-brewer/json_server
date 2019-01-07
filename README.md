@@ -1,10 +1,10 @@
 # json_server
 Quickly mock data and fetch locally from our json server
 
-##prerequisits:
+## prerequisits:
 `npm i json-server`
 
-##Run
+## Run
 `json-server {path/to/file.json}`
 
 You can specify the port with:
